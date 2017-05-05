@@ -26,6 +26,7 @@ La música que más me gusta es (en orden de preferencia):
 	<LI> El jazz
 	<LI> La música clásica
 	<LI> La electrónica
+	<LI> Aguante CARAHJOOOOOOO!
 </OL>
 
 </body>
